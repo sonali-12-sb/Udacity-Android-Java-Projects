@@ -16,7 +16,7 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 
 🛠 **Project:**  
 
-📌 [Single Screen App: Business Card](https://github.com/yourusername/business-card-project)
+📌 [Single Screen App: Business Card](https://github.com/sonali-12-sb/Single-Screen-App-Business-Card)
 
 ---
 
@@ -32,8 +32,8 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 
 🛠 **Projects:**  
 
-📌 [Score Keeper App: Cricket App](https://github.com/yourusername/score-keeper)  
-📌 [Quiz App](https://github.com/yourusername/quiz-app)  
+📌 [Score Keeper App: Cricket App](https://github.com/sonali-12-sb/Score-Keeper-Cricket-App)  
+📌 [Quiz App](https://github.com/sonali-12-sb/Quiz-App)  
 
 ---
 
@@ -54,5 +54,5 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 
 🛠 **Projects:**  
 
-📌 [Musical Structure App: Ever Green Music App](https://github.com/yourusername/musical-app)  
-📌 [Tour Guide App: Namma Bangalore](https://github.com/yourusername/tour-guide)  
+📌 [Musical Structure App: Ever Green Music App](https://github.com/sonali-12-sb/Musical-Structure-App-Ever-Green-Music-App)  
+📌 [Tour Guide App: Namma Bangalore](https://github.com/sonali-12-sb/Tour-Guide-App-Namma-Bangalore)  

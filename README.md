@@ -74,3 +74,20 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 🛠 **Projects:**  
 
 📌 News App 
+
+---
+
+### 5.	Data Storage
+**Overview:** This course focuses on storing and managing data in Android apps. It explores different storage options such as SharedPreferences, SQLite databases, and the Room Persistence Library. The course also covers reading, writing, updating, and deleting (CRUD) data, as well as best practices for efficient data management.
+
+**Skills Gained:**
+
+✔️ Storing user preferences using SharedPreferences                 
+✔️ Managing structured data with SQLite databases               
+✔️ Implementing the Room database for better database management              
+✔️ Performing CRUD operations (Create, Read, Update, Delete)                
+✔️ Displaying stored data dynamically in an app            
+
+🛠 **Projects:**  
+
+📌 Inventory App

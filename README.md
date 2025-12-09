@@ -56,3 +56,21 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 
 📌 [Musical Structure App: Ever Green Music App](https://github.com/sonali-12-sb/Musical-Structure-App-Ever-Green-Music-App)  
 📌 [Tour Guide App: Namma Bangalore](https://github.com/sonali-12-sb/Tour-Guide-App-Namma-Bangalore)  
+
+---
+
+
+### 4. Networking
+**Overview:** This course introduces the fundamentals of networking in Android apps. It teaches how to fetch data from the internet using APIs, parse JSON responses, and display dynamic data in an app. Additionally, it covers best practices for network efficiency, background processing, and error handling when making network requests.
+
+**Skills Gained:**
+
+✔️ Fetching data from the internet using HTTP requests                      
+✔️ Parsing JSON responses and displaying structured data                       
+✔️ Using RecyclerView to display lists dynamically                     
+✔️ Implementing background threads for efficient network operations             
+✔️ Handling network failures and caching data for offline use      
+
+🛠 **Projects:**  
+
+📌 News App 

@@ -73,7 +73,7 @@ Following projects were part of the Android Basics pathway programs by Udacity. 
 
 🛠 **Projects:**  
 
-📌 News App 
+📌 [News App](https://github.com/sonali-12-sb/World-News---Networking-app) 
 
 ---
 
